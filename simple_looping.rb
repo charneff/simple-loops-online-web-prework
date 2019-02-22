@@ -3,8 +3,8 @@
 def loop_iterator(number_of_times)
   counter = 0
   loop do
-    number_of_times += 1
-    puts "Welcome to Flatiron School's Web Development Course!"
+    puts phrase
+   
     if number_of_times 
       break
   end
